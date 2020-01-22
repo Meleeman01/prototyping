@@ -1,0 +1,26 @@
+{
+  "name": "prototyping",
+  "version": "1.0.0",
+  "description": "create mockups for production code",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Meleeman01/prototyping.git"
+  },
+  "author": "meleeman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Meleeman01/prototyping/issues"
+  },
+  "homepage": "https://github.com/Meleeman01/prototyping#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "bootstrap": "^4.4.1",
+    "bulma": "^0.8.0",
+    "jquery": "^3.4.1",
+    "webpack": "^4.41.5"
+  }
+}

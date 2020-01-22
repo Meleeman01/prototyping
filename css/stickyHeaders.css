@@ -1,0 +1,17 @@
+
+.header-class {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    background-color: #fff;
+    border-radius: .5rem;
+    padding-bottom: 1em;
+}
+
+.subtitle {
+    margin:0;
+    line-height: 0;
+}
+div {
+    margin-bottom: 1em;
+}
