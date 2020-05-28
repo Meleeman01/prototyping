@@ -1,0 +1,9 @@
+#canvas {
+	width: 100%;
+	padding: 200px 20px;
+	text-align: center;
+	border: 1px dashed #111;
+}
+#vue-app {
+	max-width: 500px;
+}
