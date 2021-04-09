@@ -9,4 +9,4 @@ const server = net.createServer(socket => {
 
 server.listen(8080);
 
-//use bash utility telnet to connect to this server, an send messages back and forth. 
+//use bash utility telnet to connect to this server, an send messages back and forth. telnet 127.0.0.1 8080

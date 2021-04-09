@@ -6,3 +6,5 @@ socket.on('message',(msg,rinfo)=>{
 });
 
 socket.bind(8081);
+
+//use nc (netcat) in order to test. echo "hi" | nc -w1 -u 127.0.0.1 8081
