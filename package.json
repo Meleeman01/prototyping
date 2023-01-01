@@ -21,6 +21,6 @@
     "bootstrap": "^4.4.1",
     "bulma": "^0.8.0",
     "jquery": "^3.4.1",
-    "webpack": "^4.41.5"
+    "webpack": "^5.75.0"
   }
 }
